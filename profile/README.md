@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is the Github organization where I save my homeworks and assignments for TW gtb.  
+Here is the Github organization where I save my homeworks and assignments for TW gtb-2022.  
 And here is my basic information :)
 - Name: Linxian WU
 - Hometown: Sichuan
