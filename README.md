@@ -5,4 +5,5 @@ Here I record my homeworks for Git.
 - Graduate school: Tongji University
 - Hobbies: Swimming and traveling
 - Tel: 18918519947
+- Email: wu_linxian@163.com
 
