@@ -8,3 +8,7 @@ And here is my basic information :)
 - Email: wu_linxian@163.com
 - Hobbies: Swimming and traveling
 - Address: 100 Zhangwu Road, District Yangpi, Shanghai 200092
+
+Can't wait to see you guys face to face~  
+![profile](/profile-small.png)
+
