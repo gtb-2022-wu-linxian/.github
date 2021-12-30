@@ -10,5 +10,4 @@ And here is my basic information :)
 - Address: 100 Zhangwu Road, District Yangpi, Shanghai 200092
 
 Can't wait to see you guys face to face~  
-![profile](/profile-small.png)
 
