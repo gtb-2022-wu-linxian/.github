@@ -7,8 +7,8 @@ And here is my basic information :)
 - Graduate school: Tongji University & Paris-Saclay University
 - Tel: 18918519947
 - Email: wu_linxian@163.com
-- Hobbies: Swimming and traveling
-- Address: 100 Zhangwu Road, District Yangpi, Shanghai 200092
+- Hobbies: Swimming, traveling and photography
+- Address: 100 Zhangwu Road, District Yangpu, Shanghai 200092
 
 Can't wait to see you guys face to face~  
 ![profile](/profile/profile-small.png)
